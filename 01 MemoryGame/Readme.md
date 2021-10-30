@@ -1,13 +1,13 @@
 # Learn:
-###  • push()
-###  • querySelector()
-###  • SetAttribute()
-###  • getAttribute()
-###  • appendChild()
-###  • Math.random()
-###  • sort()
-###  • For loops
-###  • createElement()
+    • push()
+    • querySelector()
+    • SetAttribute()
+    • getAttribute()
+    • appendChild()
+    • Math.random()
+    • sort()
+    • For loops
+    • createElement() 
 
 
 # Rules of Memory Game
